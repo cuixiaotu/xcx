@@ -25,8 +25,27 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": -1,
-			"list": []
+			"current": 0,
+			"list": [
+				{
+					"id": 0,
+					"name": "商品详情页",
+					"pathName": "pages/product/product",
+					"query": "id=11"
+				},
+				{
+					"id": -1,
+					"name": "分类页面",
+					"pathName": "pages/category/category",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "购物车页面",
+					"pathName": "pages/cart/cart",
+					"query": ""
+				}
+			]
 		}
 	}
 }
